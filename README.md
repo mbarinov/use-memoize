@@ -1,13 +1,13 @@
-# use-memoized
+# use-memoize
 
-> useMemoized hook for React
+> useMemoize hook for React
 
-[![NPM](https://img.shields.io/npm/v/use-memoized.svg)](https://www.npmjs.com/package/use-memoized) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/use-memoize.svg)](https://www.npmjs.com/package/use-memoize) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save use-memoized
+npm install --save use-memoize
 ```
 
 ## Usage
@@ -15,8 +15,7 @@ npm install --save use-memoized
 ```tsx
 import React, { Component } from 'react'
 
-import MyComponent from 'use-memoized'
-import 'use-memoized/dist/index.css'
+import MyComponent from 'use-memoize'
 
 class Example extends Component {
   render() {

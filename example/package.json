@@ -1,13 +1,14 @@
 {
-  "name": "use-memoized-example",
-  "homepage": "https://mbarinov.github.io/use-memoized",
+  "name": "use-memoize-example",
+  "homepage": "https://mbarinov.github.io/use-memoize",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@types/react-dom": "16.9.7",
     "react": "link:../node_modules/react",
     "react-dom": "link:../node_modules/react-dom",
     "react-scripts": "link:../node_modules/react-scripts",
-    "use-memoized": "link:.."
+    "use-memoize": "link:.."
   },
   "scripts": {
     "start": "node ../node_modules/react-scripts/bin/react-scripts.js start",

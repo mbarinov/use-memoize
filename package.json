@@ -1,10 +1,10 @@
 {
   "name": "use-memoize",
   "version": "1.0.0",
-  "description": "useMemoized hook for React",
+  "description": "useMemoize hook for React",
   "author": "mbarinov",
   "license": "MIT",
-  "repository": "mbarinov/use-memoized",
+  "repository": "mbarinov/use-memoize",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
