@@ -1,6 +1,6 @@
 {
-  "short_name": "use-memoized",
-  "name": "use-memoized",
+  "short_name": "use-memoize",
+  "name": "use-memoize",
   "icons": [
     {
       "src": "favicon.ico",
