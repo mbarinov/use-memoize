@@ -1,0 +1,7 @@
+.idea
+node_modules
+dist
+example/node_modules
+yarn-error.log
+example/yarn-error.log
+.DS_Store
