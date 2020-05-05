@@ -20,7 +20,8 @@ const App: React.FC = () => {
       <button onClick={() => setCount(prevState => prevState += 1)}>Incr</button>
       <button onClick={() => setCount(prevState => prevState -= 1)}>Decr</button>
       <button onClick={() => forceUpdate({})}>Re-render</button>
-    </div>)
+    </div>
+  )
 }
 
 export default App
